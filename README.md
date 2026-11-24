@@ -1,2 +1,1 @@
-# Portfolio
-I developed My profolio with the help of HTML5,CSS3 and Java Script. In the portfolio About Me and My skills,Project,Internship and My graduate Will get Information
+**Portfolio Website:** Developed a personal portfolio website using HTML5 and CSS3 to showcase my profile, technical skills, projects, internship experience, and educational qualifications. The website provides a simple and organized way for recruiters and visitors to learn about my background, skills, and development work.
